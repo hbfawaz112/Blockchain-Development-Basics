@@ -3,7 +3,7 @@ This repository describe my journey with my blockchain &amp; web3 learning from 
 
 ---
 ![This is an image](https://i.imgur.com/M9uocHi.png)
-## What I learn : 
+## What I learn 
 1 - Intro to Programming
 
 2 - What is a Blockchain? 
