@@ -1,5 +1,8 @@
 # Building my first dApp
 This is the steps on how to create a front end, deploy a Solidity smart contract, and connect them together.
+<br/>
+---
+<b>App that simply reads and writes a value to the blockchain</b>
 ## It about a 3 stages 
 - Create a basic HTML web page
 - Create a basic Solidity smart contract
