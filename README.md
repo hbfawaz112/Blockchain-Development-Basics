@@ -22,6 +22,6 @@ This repository describe my journey with my blockchain &amp; web3 learning from 
 
 9 - Build my own cryptocurrency using ERC-20 tokens <a href = "https://github.com/hbfawaz112/Blockchain-Development-Basics/tree/main/Building%20my%20own%20crypto">here</a>
 
-You can see more on this pdf that I create during my learning process <a href="https://github.com/hbfawaz112/blockchain-development/blob/main/Web3-Freshman-Basics.pdf">here</a>
+You can see more on this pdf that I create during my learning process <a href=https://github.com/hbfawaz112/Blockchain-Development-Basics/blob/main/Docs/Web3-Freshman-Basics.pdf">here</a>
 
 
