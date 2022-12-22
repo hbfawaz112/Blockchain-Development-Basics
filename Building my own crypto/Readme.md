@@ -42,5 +42,5 @@ contract LW3Token is ERC20 {
 ### Viewing Tokens in Metamask
 Tell Metamask to add it to your wallet manually by copying your contract address and click import tokens then enter token contract address and click add.
 <p>
-<img src="https://raw.githubusercontent.com/hbfawaz112/Blockchain-Development-Basics/main/Building%20my%20own%20crypto/metamask_own_token.PNG?token=GHSAT0AAAAAABRF6C5MDYR2HEDJ65YGKNSMY5DT5HQ"/>
+<img src="https://raw.githubusercontent.com/hbfawaz112/Blockchain-Development-Basics/main/Building%20my%20own%20crypto/metamask_own_token.PNG?token=GHSAT0AAAAAABRF6C5MFA4BIN7VZQVE4LKGY5DWFSQ"/>
   </p>
