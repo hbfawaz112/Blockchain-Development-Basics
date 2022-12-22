@@ -46,7 +46,7 @@ npx hardhat compile
 
 ### Deployment
 For deployment, create a file named deploy.js in script section amd write the follwing code that use ethers that is simply get the contract by it's name and call the deploy method on it.
-```
+```js
 // Import ethers from Hardhat package
 const { ethers } = require("hardhat");
 
@@ -79,13 +79,13 @@ Then go to Quicnode and get the HTTP_URL by creating a new endpoint on yhr Ether
 
 <br/>
 Go to the hardhat configuration file ```hardhat.config.js``` and add then goerli network in the exported modules
-```
+
+```javascript
 require("@nomicfoundation/hardhat-toolbox");
 require("dotenv").config({ path: ".env" });
 
 const QUICKNODE_HTTP_URL = process.env.QUICKNODE_HTTP_URL;
 const PRIVATE_KEY = process.env.PRIVATE_KEY;
-
 module.exports = {
   solidity: "0.8.9",
   networks: {
@@ -96,10 +96,12 @@ module.exports = {
   },
 };
 ```
+
 Finally run the following script tp deploy it
 ```
 npx hardhat run scripts/deploy.js --network goerli
 ```
+<br>
 <b><i>You can check by copying your contract address in Goerli Etherscan and search your address
 f the address opens up on etherscan, you have deployed your first NFT 🎉
 </i></b>
